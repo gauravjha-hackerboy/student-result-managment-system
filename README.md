@@ -1,4 +1,4 @@
-**Student Result management system** 
+**Student Result management system** \n
 **How To Run??**
 To run this project you must have installed a virtual server i.e XAMPP on your PC.
 After Starting Apache and MySQL in XAMPP, follow the following steps
